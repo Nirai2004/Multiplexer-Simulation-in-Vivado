@@ -238,8 +238,9 @@ module mux4_to_1_tb;
     end
 endmodule
 
-![373187437-1dfc69a0-6636-4681-ae58-b24e32144994](https://github.com/user-attachments/assets/b4eb2711-c6f0-4b4a-9e21-7121f99fe1b7)
 
+
+![373187437-1dfc69a0-6636-4681-ae58-b24e32144994](https://github.com/user-attachments/assets/b4eb2711-c6f0-4b4a-9e21-7121f99fe1b7)
 
 
 
