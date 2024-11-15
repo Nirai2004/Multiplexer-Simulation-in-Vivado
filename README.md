@@ -64,7 +64,6 @@ Truth Table
 Verilog Code
 
 4:1 MUX Gate-Level Implementation
-
 module mux(y,s,a,b,c,d);
 input [1:0]s;
 input a,b,c,d;
